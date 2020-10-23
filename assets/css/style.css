@@ -13,7 +13,7 @@ header {
 }
 .header {
     height: 50px;
-    background-color: red;
+    background: linear-gradient(-90deg, #84CF6A, #16C0B0);
 }
 .slider {
     flex: 1;
